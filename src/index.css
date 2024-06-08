@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  font-family: Arial;
+}
+th{
+  font-size: 24px;
+  color: black;
+}
+td{
+  border-left: none;
+  border-right: none;
+  font-size: 25px;
+  color: black;
+}
